@@ -1,0 +1,53 @@
+{
+    "name": "Etop - Essien Emanuella Ubokabasi",
+    "avatar" : "https://pbs.twimg.com/profile_images/1606277004978003968/5uYhjvgT_400x400.jpg",
+    "links": [
+        {
+            "title": "Personal Blog",
+            "href": "https://ubcodesblog.com/",
+            "image" : "https://images.unsplash.com/photo-1567446537708-ac4aa75c9c28?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bG9nb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60" 
+        },
+        {
+            "title": "Portfolio",
+            "href": "https://emmanuellaubokabasi.me",
+            "image" : "https://pbs.twimg.com/profile_images/1606277004978003968/5uYhjvgT_400x400.jpg" 
+        },
+        {
+            "title": "Youtube Tutorials",
+            "href": "https://twitter.com/ubcodes1_",
+            "image" : "https://images.unsplash.com/photo-1634942536846-e9863ef9e78f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8eW90dWJlfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60" 
+        },
+        {
+            "title": "My GitHub",
+            "href": "https://github.com/UB30-4",
+            "image" : "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2l0aHVifGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60" 
+        },
+        {
+            "title": "Newsletter",
+            "href": "https://ubcodesblog.com/",
+            "image" : "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3c2xldHRlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60" 
+        },
+        {
+            "title": "Tik Tok",
+            "href": "https://www.tiktok.com/@ubcodes_",
+            "image" : "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGlrJTIwdG9rfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60" 
+        }
+    ],
+    "socials" : [
+        {
+            "title" : "My GitHub",
+            "href" : "https://github.com/UB30-4",
+            "image": ""
+        },
+        {
+            "title" : "Instagram",
+            "href" : "https://instagram.com/ubcodes._",
+            "image": ""
+        },
+        {
+            "title" : "Twitter",
+            "href" : "https://twitter.com/ubcodes1_",
+            "image": ""
+        }
+    ]
+}
